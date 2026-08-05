@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Publish folder
+publish/
+
+# Local development settings
+appsettings.Development.json
